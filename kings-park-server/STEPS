@@ -4,4 +4,12 @@
  sudo apt-get install git openjdk-8-jre-headless
  sudo apt install jq
 
+./build_server.sh
+cd server_build_dir
+ln $(ls s*.jar) custom.jar
+cd ..
+
+
+
+some of these pulugins' make it challanging. will automate future in future
 

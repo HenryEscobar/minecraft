@@ -2,64 +2,64 @@
     {
         "name": "WorldEdit",
         "url": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
-        "Description": "Edit world supertool",
-        "Download_url": "",
-        "Comment": ""
+        "description": "Edit world supertool",
+        "download_url": "https://dev.bukkit.org/projects/worldedit/files/latest",
+        "comment": ""
     },
     {
         "name": "LuckPerms",
         "url": "https://www.spigotmc.org/resources/luckperms.28140/",
-        "Description": "LuckPerms is a permissions plugin",
-        "Download_url": "",
-        "Comment": "Makes managing commands and such easy"
+        "description": "LuckPerms is a permissions plugin",
+        "download_url": "",
+        "comment": "Makes managing commands and such easy"
     },
     {
-        "name": "CreativeGates",
+        "name": "creativeGates",
         "url": "https://www.spigotmc.org/resources/creativegates.1905/",
-        "Description": "CreativeGates is a plugin that allows you to create teleportation gates",
-        "Download_url": "",
-        "Comment": ""
+        "description": "creativeGates is a plugin that allows you to create teleportation gates",
+        "download_url": "",
+        "comment": ""
     },
     {
         "name": "EssentialsX",
         "url": "https://www.spigotmc.org/resources/essentialsx.9089/",
-        "Description": "Super mod pack and 130+ commands such as /tpa",
-        "Download_url": "",
-        "Comment": ""
+        "description": "Super mod pack and 130+ commands such as /tpa",
+        "download_url": "",
+        "comment": ""
     },
     {
         "name": "Vault",
         "url": "https://www.spigotmc.org/resources/vault.34315/",
-        "Description": "Vault is a Permissions, Chat, & Economy API",
-        "Download_url": "",
-        "Comment": "Pre-req for many things such as essentialsX"
+        "description": "Vault is a Permissions, chat, & Economy API",
+        "download_url": "",
+        "comment": "Pre-req for many things such as essentialsX"
     },
     {
-        "name": "Multiverse-Core",
+        "name": "Multiverse-core",
         "url": "https://www.spigotmc.org/resources/multiverse-core.390/",
-        "Description": "Create portals to different worlds",
-        "Download_url": "",
-        "Comment": ""
+        "description": "create portals to different worlds",
+        "download_url": "",
+        "comment": ""
     },
     {
         "name": "GriefPrevention",
         "url": "https://www.spigotmc.org/resources/griefprevention.1884/",
-        "Description": "PREVENTS all forms of grief - build/break, theft, spam, spawn camping, and more without a database.",
-        "Download_url": "",
-        "Comment": ""
+        "description": "PREVENTS all forms of grief - build/break, theft, spam, spawn camping, and more without a database.",
+        "download_url": "",
+        "comment": ""
     },
     {
         "name": "ViaVersion",
         "url": "https://www.spigotmc.org/resources/viaversion.19254/",
-        "Description": "ViaVersion allows players to join your server from any Minecraft client version.",
-        "Download_url": "",
-        "Comment": ""
+        "description": "ViaVersion allows players to join your server from any Minecraft client version.",
+        "download_url": "",
+        "comment": ""
     },
     {
         "name": "Skoice",
         "url": "https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/",
-        "Description": "Skoice is a proximity voice chat running on Discord ",
-        "Download_url": "",
-        "Comment": ""
+        "description": "Skoice is a proximity voice chat running on discord ",
+        "download_url": "",
+        "comment": ""
     }
 ]
