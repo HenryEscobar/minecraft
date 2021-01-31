@@ -1,4 +1,6 @@
 
+# TO automate steps:
+
  sudo apt-get install git openjdk-8-jre-headless
  sudo apt install jq
 
