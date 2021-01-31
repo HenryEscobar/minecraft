@@ -1,0 +1,8 @@
+{
+    "name": "spigot",
+    "url": "https://www.spigotmc.org/wiki/spigot/",
+    "Description": "Spigot minecraft server",
+    "Download_url": "https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar",
+    "Comment": "Requires JDK java-1.8.0-openjdk-devel or greater",
+    "command": "java -jar BuildTools.jar"
+}
