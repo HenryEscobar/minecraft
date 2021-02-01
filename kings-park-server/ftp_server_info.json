@@ -1,0 +1,8 @@
+{
+    "name": "template",
+    "ftp_server": ""
+    "username": "",
+    "password": "",
+    "comment": "Ftp info to upload to server. do not commit these passwords!",
+    "instructions": "copy this file to the 'secure' folder and do not commit it"
+}

@@ -3,6 +3,7 @@
 
  sudo apt-get install git openjdk-8-jre-headless
  sudo apt install jq
+sudo apt install lftp
 
 ./build_server.sh
 cd server_build_dir
@@ -12,4 +13,6 @@ cd ..
 
 
 some of these pulugins' make it challanging. will automate future in future
+
+upload custom.jar to server and startup
 

@@ -3,6 +3,5 @@ checkout paper:
 minecraft jvm https://papermc.io/
 
 
-
 sudo  sudo apt install jq
 

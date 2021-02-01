@@ -1,3 +1,5 @@
 *.swp
 kings-park-server/server_build_dir/
 kings-park-server/mod_downloads
+kings-park-server/secure/
+kings-park-server/.tmp_ftp_commands
