@@ -14,13 +14,6 @@
         "comment": "Makes managing commands and such easy"
     },
     {
-        "name": "creativeGates",
-        "url": "https://www.spigotmc.org/resources/creativegates.1905/",
-        "description": "creativeGates is a plugin that allows you to create teleportation gates",
-        "download_url": "",
-        "comment": ""
-    },
-    {
         "name": "EssentialsX",
         "url": "https://www.spigotmc.org/resources/essentialsx.9089/",
         "description": "Super mod pack and 130+ commands such as /tpa",
