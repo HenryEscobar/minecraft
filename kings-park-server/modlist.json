@@ -1,12 +1,5 @@
 [
     {
-        "name": "WorldEdit",
-        "url": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
-        "description": "Edit world supertool",
-        "download_url": "https://dev.bukkit.org/projects/worldedit/files/latest",
-        "comment": ""
-    },
-    {
         "name": "LuckPerms",
         "url": "https://www.spigotmc.org/resources/luckperms.28140/",
         "description": "LuckPerms is a permissions plugin",
