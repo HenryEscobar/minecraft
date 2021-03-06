@@ -23,9 +23,16 @@
     {
         "name": "Multiverse-core",
         "url": "https://www.spigotmc.org/resources/multiverse-core.390/",
-        "description": "create portals to different worlds",
+        "description": "Multiple world support",
         "download_url": "",
         "comment": ""
+    },
+    {
+        "name": "Multiverse-portals",
+        "url": "https://dev.bukkit.org/projects/multiverse-portals/files",
+        "description": "create portals to different worlds",
+        "download_url": "",
+        "comment": "needd to fix download url"
     },
     {
         "name": "GriefPrevention",
