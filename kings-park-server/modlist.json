@@ -1,19 +1,5 @@
 [
     {
-        "name": "LuckPerms",
-        "url": "https://www.spigotmc.org/resources/luckperms.28140/",
-        "description": "LuckPerms is a permissions plugin",
-        "download_url": "",
-        "comment": "Makes managing commands and such easy"
-    },
-    {
-        "name": "EssentialsX",
-        "url": "https://www.spigotmc.org/resources/essentialsx.9089/",
-        "description": "Super mod pack and 130+ commands such as /tpa",
-        "download_url": "",
-        "comment": ""
-    },
-        {
         "name": "EssentialsChat",
         "url": "",
         "description": "",
@@ -35,16 +21,43 @@
         "comment": ""
     },
     {
-        "name": "Vault",
-        "url": "https://www.spigotmc.org/resources/vault.34315/",
-        "description": "Vault is a Permissions, chat, & Economy API",
+        "name": "EssentialsX",
+        "url": "https://www.spigotmc.org/resources/essentialsx.9089/",
+        "description": "Super mod pack and 130+ commands such as /tpa",
         "download_url": "",
-        "comment": "Pre-req for many things such as essentialsX"
+        "comment": ""
+    },
+    {
+        "name": "GriefPrevention",
+        "url": "https://www.spigotmc.org/resources/griefprevention.1884/",
+        "description": "PREVENTS all forms of grief - build/break, theft, spam, spawn camping, and more without a database.",
+        "download_url": "",
+        "comment": ""
+    },
+    {
+        "name": "LuckPerms",
+        "url": "https://www.spigotmc.org/resources/luckperms.28140/",
+        "description": "LuckPerms is a permissions plugin",
+        "download_url": "",
+        "comment": "Makes managing commands and such easy"
     },
     {
         "name": "Multiverse-core",
         "url": "https://www.spigotmc.org/resources/multiverse-core.390/",
         "description": "Multiple world support",
+        "download_url": "",
+        "comment": ""
+    },
+    {
+        "name": "Multiverse-Inventories",
+        "url": "",
+        "description": "",
+        "download_url": "",
+        "comment": ""
+    },   {
+        "name": "Multiverse-NetherPortals",
+        "url": "",
+        "description": "",
         "download_url": "",
         "comment": ""
     },
@@ -56,26 +69,6 @@
         "comment": "needd to fix download url"
     },
     {
-        "name": "GriefPrevention",
-        "url": "https://www.spigotmc.org/resources/griefprevention.1884/",
-        "description": "PREVENTS all forms of grief - build/break, theft, spam, spawn camping, and more without a database.",
-        "download_url": "",
-        "comment": ""
-    },
-    {
-        "name": "ViaVersion",
-        "url": "https://www.spigotmc.org/resources/viaversion.19254/",
-        "description": "ViaVersion allows players to join your server from any Minecraft client version.",
-        "download_url": "",
-        "comment": ""
-    },
-    {
-        "name": "Skoice",
-        "url": "https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/",
-        "description": "Skoice is a proximity voice chat running on discord ",
-        "download_url": "",
-        "comment": ""
-    },    {
         "name": "Skript 2.5.3",
         "url": "https://www.spigotmc.org/resources/viaversion.19254/",
         "description": "scripting lanaguage for minecraft server",
@@ -93,7 +86,28 @@
         "description": "A way to do yaml in skript. caches yaml in memory",
         "download_url": "https://github.com/Sashie/skript-yaml/releases/download/v1.3.2/skript-yaml.jar",
         "comment": "Skoice requirement"
-    },    {
+    },    
+    {
+        "name": "Skoice",
+        "url": "https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/",
+        "description": "Skoice is a proximity voice chat running on discord ",
+        "download_url": "",
+        "comment": ""
+    },
+    {
+        "name": "Vault",
+        "url": "https://www.spigotmc.org/resources/vault.34315/",
+        "description": "Vault is a Permissions, chat, & Economy API",
+        "download_url": "",
+        "comment": "Pre-req for many things such as essentialsX"
+    },{
+        "name": "ViaVersion",
+        "url": "https://www.spigotmc.org/resources/viaversion.19254/",
+        "description": "ViaVersion allows players to join your server from any Minecraft client version.",
+        "download_url": "",
+        "comment": ""
+    },
+    {
         "name": "Vixio 2.0.8-patched",
         "url": "https://www.spigotmc.org/resources/viaversion.19254/",
         "description": "The Skript Addon made to fit all of your Discord need",
