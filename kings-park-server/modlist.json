@@ -13,6 +13,27 @@
         "download_url": "",
         "comment": ""
     },
+        {
+        "name": "EssentialsChat",
+        "url": "",
+        "description": "",
+        "download_url": "",
+        "comment": ""
+    },    
+    {
+        "name": "EssentialsProtect",
+        "url": "",
+        "description": "a",
+        "download_url": "",
+        "comment": ""
+    },
+    {
+        "name": "EssentialsSpawn",
+        "url": "",
+        "description": "a",
+        "download_url": "",
+        "comment": ""
+    },
     {
         "name": "Vault",
         "url": "https://www.spigotmc.org/resources/vault.34315/",
