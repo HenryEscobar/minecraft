@@ -54,5 +54,29 @@
         "description": "Skoice is a proximity voice chat running on discord ",
         "download_url": "",
         "comment": ""
-    }
+    },    {
+        "name": "Skript 2.5.3",
+        "url": "https://www.spigotmc.org/resources/viaversion.19254/",
+        "description": "scripting lanaguage for minecraft server",
+        "download_url": "https://github.com/SkriptLang/Skript/releases/download/2.5.3/Skript.jar",
+        "comment": "Skoice requirement"
+    },    {
+        "name": "skript-reflect 2.2.1",
+        "url": "https://www.spigotmc.org/resources/viaversion.19254/",
+        "description": "Skript fork of skript-mirror. script language extention",
+        "download_url": "https://github.com/TPGamesNL/skript-reflect/releases/download/v2.2.1/skript-reflect-2.2.1.jar",
+        "comment": "Skoice requirement"
+    },    {
+        "name": "skript-yaml 1.3.2",
+        "url": "https://www.spigotmc.org/resources/viaversion.19254/",
+        "description": "A way to do yaml in skript. caches yaml in memory",
+        "download_url": "https://github.com/Sashie/skript-yaml/releases/download/v1.3.2/skript-yaml.jar",
+        "comment": "Skoice requirement"
+    },    {
+        "name": "Vixio 2.0.8-patched",
+        "url": "https://www.spigotmc.org/resources/viaversion.19254/",
+        "description": "The Skript Addon made to fit all of your Discord need",
+        "download_url": "https://github.com/carlodrift/Vixio/releases/download/v2.0.8-patched/Vixio-2.0.8-patched.jar",
+        "comment": "Skoice requirement"
+    } 
 ]
